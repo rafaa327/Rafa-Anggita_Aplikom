@@ -2,7 +2,7 @@
 Berikut adalah ringkasan hasil tugas pengolahan data di pertemuan 15-16
 
 1. File EMT
-   [File EMT] ()
+   [File EMT] (https://github.com/rafaa327/Rafa-Anggita_Aplikom/blob/c0d91e0ecf10961f59f1d2739c39b5382dc501fa/Rafa%20Anggita%20Raharjo_23030630072_Matematika%20E_Gabungan%20EMT.en)
 3. File Markdown
    [File Markdown] ()
 5. File Latex
